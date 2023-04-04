@@ -93,10 +93,19 @@ cases of COVID-19 than counties with mask mandates.
 
 ### Exercise 4
 
-What, if any, useful information do these data and your visualization
-tell us about mask wearing and COVID? It’ll be difficult to set aside
-what you already know about mask wearing, but you should try to focus
-only on what this visualization tells. Feel free to also comment on
-whether that lines up with what you know about mask wearing.
+This information tells us that 1: Counties without a mask mandate had
+less cases of COVID than counties with a mask mandate and that 2:
+wearing a mask doesn’t completelty protect you from catching COVID.
+
+Overall, initially looking at the data- it seems to say that masks do
+not work at all, but that is not the case. Counties with the most cases
+overall benefitted from the mask mandate- while those without a mask
+mandate didnt need masks, because their cases were already low.
+
+There are several reasons why this could be happening. One possible
+reason could be due to the pop. density. If there were more people in
+one area, then masks would be needed, and then mask mandates would
+occur. On the other hand, counties with low pop. densities would already
+have few cases and therefore not need a mandate.
 
 …
