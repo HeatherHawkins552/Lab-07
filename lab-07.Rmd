@@ -89,9 +89,7 @@ ggplot(mapping = aes(x = date,
 As you can see, reformatting the scale to fit both types and adding the true numbers shoe that counties with no-mask mandates actually had LESS cases of COVID-19 than counties with mask mandates. 
 
 ### Exercise 4
+What, if any, useful information do these data and your visualization tell us about mask wearing and COVID? It’ll be difficult to set aside what you already know about mask wearing, but you should try to focus only on what this visualization tells. Feel free to also comment on whether that lines up with what you know about mask wearing.
 
 
 ...
-
-
-Add exercise headings as needed.
