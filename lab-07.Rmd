@@ -1,7 +1,7 @@
 ---
 title: "Lab 07 - Conveying the right message through visualisation"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Heather Hawkins"
+date: "03/30/23"
 output: github_document
 ---
 
@@ -12,6 +12,8 @@ library(tidyverse)
 ```
 
 ### Exercise 1
+
+This visualization is misleading because there are TWO DIFFERENT types of scales. Masked mandated counties are scaled from 15-25 while no-mask mandated counties counts are scaled from 4-14. If you DEEPLY look at this data, no-mask county counts are VERY low 😡😡😡
 
 ```{R data}
 
@@ -69,6 +71,8 @@ MASK_data <- tribble(
 
 ```
 
+Because of this, I ACTUALLY counted these counts of covid-19 for each type of county. 
+
 
 ### Exercise 2
 ```{R Plot}
@@ -79,6 +83,14 @@ ggplot(mapping = aes(x = date,
   geom_point()
 
 ```
+
+### Exercise 3
+
+As you can see, reformatting the scale to fit both types and adding the true numbers shoe that counties with no-mask mandates actually had LESS cases of COVID-19 than counties with mask mandates. 
+
+### Exercise 4
+
+
 ...
 
 
